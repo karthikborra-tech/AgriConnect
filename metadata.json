@@ -1,0 +1,5 @@
+{
+  "name": "AgriConnect Hub",
+  "description": "A modern web platform connecting farmers directly with buyers, featuring real-time market data, product listings, an AI-powered chatbot, image generation tools for marketing, and text-to-speech for accessibility.",
+  "requestFramePermissions": []
+}
